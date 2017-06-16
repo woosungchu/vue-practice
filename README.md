@@ -25,5 +25,6 @@ npm install -g vue-cli
 #### Reference
 
 - [Basic](https://medium.com/codingthesmartway-com-blog/vue-js-2-quickstart-tutorial-2017-246195cfbdd2)
+-[TODO](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
 - [guide](http://vuejs-templates.github.io/webpack/)
 - [docs for vue-loader](http://vuejs.github.io/vue-loader).
